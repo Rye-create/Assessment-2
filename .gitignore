@@ -1,0 +1,17 @@
+# Downloaded and processed data (large, not for version control)
+data/raw/
+data/processed/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Model files (store on Hugging Face Hub or Drive instead)
+*.pt
+*.pth
+*.bin
+*.safetensors
