@@ -40,10 +40,12 @@ PMC10747652,Monitoring of Single-Track Melting States Based on Photodiode Signal
 PMC10817330,Deep-Learning-Based Segmentation of Keyhole in In-Situ X-ray Imaging of Laser Powder Bed Fusion,2024,,35,4,True,1
 PMC10819052,An Electrical Resistance Diagnostic for Conductivity Monitoring in Laser Powder Bed Fusion,2024,,31,0,True,46
 PMC10819395,"The Printability, Microstructure, and Mechanical Properties of Fe80−xMnxCo10Cr10 High-Entropy Alloys Fabricated by Laser Powder Bed Fusion Additive Manufacturing",2024,,34,1,True,8
+PMC10825177,A strong fracture-resistant high-entropy alloy with nano-bridged honeycomb microstructure intrinsically toughened by 3D-printing,2024,,20,0,True,4
 PMC10856223,Microhardness and Microstructure Analysis of the LPBF Additively Manufactured 18Ni300,2024,,36,1,True,3
 PMC10856290,Microstructure and Mechanical Properties of a Novel Al-Mg-Sc-Ti Alloy Fabricated by Laser Powder Bed Fusion,2024,,34,2,True,4
 PMC10856295,Performance Improvement for the CuCrZr Alloy Produced by Laser Powder Bed Fusion Using the Remelting Process,2024,,52,4,True,17
 PMC10859257,Dataset of process-structure-property feature relationships for AlSi10Mg material fabricated using laser powder bed fusion additive manufacturing,2024,,24,10,True,30
+PMC10861549,Manufacturing of high strength and high conductivity copper with laser powder bed fusion,2024,,23,0,True,1
 PMC10875428,Evaluating the effect of pore size for 3d-printed bone scaffolds,2024,,31,5,True,17
 PMC10890120,Investigation of Microstructures and Tensile Properties of 316L Stainless Steel Fabricated via Laser Powder Bed Fusion,2024,,64,4,True,13
 PMC10890516,Tomography of Laser Powder Bed Fusion Maraging Steel,2024,,41,1,True,4
@@ -77,6 +79,7 @@ PMC11208593,Data-fusion for in-situ monitoring and molten state identification d
 PMC11227022,Cavitation erosion-corrosion properties of as-cast TC4 and LPBF TC4 in 0.6 mol/L NaCl solution: A comparison investigation,2024,,21,6,True,4
 PMC11242932,Comparison on the Electrochemical Corrosion Behavior of Ti6Al4V Alloys Fabricated by Laser Powder Bed Fusion and Casting,2024,,28,2,True,3
 PMC11243688,Verification of the Laser Powder Bed Fusion Performance of 2024 Aluminum Alloys Modified Using Nano-LaB6,2024,,38,2,True,4
+PMC11243706,Dynamic Response of Ti-6Al-2Zr-1Mo-1V Alloy Manufactured by Laser Powder-Bed Fusion,2024,,28,0,True,4
 PMC11252327,High-pressure phase transition in 3-D printed nanolamellar high-entropy alloy by imaging and simulation insights,2024,,31,1,True,0
 PMC11274417,3D Printing and Surface Engineering of Ti6Al4V Scaffolds for Enhanced Osseointegration in an In Vitro Study,2024,,35,2,True,0
 PMC11277926,Effect of Energy Density on the Mechanical Properties of 1.2709 Maraging Steel Produced by Laser Powder Bed Fusion,2024,,41,1,True,35
@@ -97,6 +100,7 @@ PMC11396521,The Influence of Post-Treatment on Micropore Evolution and Mechanica
 PMC11432819,Microstructural Stability of IN625 Reinforced by the Addition of TiC Produced by Laser Powder Bed Fusion after Prolonged Thermal Exposure,2024,,34,2,True,4
 PMC11433536,Effects of Process Parameters and Process Defects on the Flexural Fatigue Life of Ti-6Al-4V Fabricated by Laser Powder Bed Fusion,2024,,38,7,True,24
 PMC11433572,Microstructure and Hardness Properties of Additively Manufactured AISI 316L Welded by Tungsten Inert Gas and Laser Welding Techniques,2024,,34,8,True,6
+PMC11434014,The Role of Dislocation Type in the Thermal Stability of Cellular Structures in Additively Manufactured Austenitic Stainless Steel,2024,,42,0,True,1
 PMC11434083,Deep Learning-Driven Prediction of Mechanical Properties of 316L Stainless Steel Metallographic by Laser Powder Bed Fusion,2024,,45,1,True,13
 PMC11434085,On the Creation of a Material Bond between L-PBF-Manufactured AZ91 and Ti-6Al-4V Components in the Context of Medical Applications,2024,,37,2,True,10
 PMC11434377,Corrosion Behavior and Biological Properties of ZK60/HA Composites Prepared by Laser Powder Bed Fusion,2024,,25,1,True,3
@@ -110,6 +114,7 @@ PMC11595566,Tensile Properties of Ex-Situ Ti-TiC Metal Matrix Composites Manufac
 PMC11596863,Multiscale Modeling of Nanoparticle Precipitation in Oxide Dispersion-Strengthened Steels Produced by Laser Powder Bed Fusion,2024,,60,7,True,27
 PMC11612079,Energy consumption forecasting for laser manufacturing of large artifacts based on fusionable transfer learning,2024,,54,3,True,9
 PMC11643527,A Numerical Study of Topography and Roughness of Sloped Surfaces Using Process Simulation Data for Laser Powder Bed Fusion,2024,,23,2,True,10
+PMC11677277,Influence of Heat Treatment on the Microstructure and Mechanical Properties of Pure Copper Components Fabricated via Micro-Laser Powder Bed Fusion,2024,,20,0,True,3
 PMC11677451,Powder Metallurgy Processing to Enhance Superelasticity and Shape Memory in Polycrystalline Cu–Al–Ni Alloys: Reference Material for Additive Manufacturing,2024,,36,2,True,0
 PMC11722399,Optimising β-Ti21S Alloy Lattice Structures for Enhanced Femoral Implants: A Study on Mechanical and Biological Performance,2025,,98,6,True,8
 PMC11766489,Numerical Study to Analyze the Influence of Process Parameters on Temperature and Stress Field in Powder Bed Fusion of Ti-6Al-4V,2025,,76,7,True,105
@@ -130,6 +135,7 @@ PMC12028714,Optimization of L-PBF Process Parameters for Defect Reduction and Me
 PMC12028869,Microstructural Response in Friction Stir Additive Manufacturing of 5A06 Aluminum Alloy,2025,,21,2,True,0
 PMC12029014,Investigation of the Process Optimization for L-PBF Hastelloy X Alloy on Microstructure and Mechanical Properties,2025,,23,3,True,58
 PMC12029075,Fabrication of Stainless Steel/Alumina Composite Powders by Spray Granulation and Plasma Spheroidization,2025,,52,5,True,0
+PMC12029091,Influence of Nb Addition on the Microstructure and Mechanical Properties of Laser Powder Bed Fusion-Fabricated Ti6Al4V Alloy,2025,,29,0,True,4
 PMC12058171,Performance evaluation of machine learning techniques in surface morphology and corrosion prediction for A286 3D printed micro-lattice structures,2025,,124,14,True,1
 PMC12058935,4D Porosity Evolution in Additively Manufactured 316L Stainless Steel through In-Situ Tensile Testing and X-Ray Computed Tomography,2025,,42,4,True,16
 PMC12058964,A Comparative Study of the Modal Response of Additively and Subtractively Manufactured Thin Plates After Thermal Loading,2025,,37,1,True,4
@@ -171,6 +177,7 @@ PMC12430151,Assessment of the Corrosion Rate of Maraging Steel M350 Produced by 
 PMC12430277,Aluminium Injection Mould Behaviour Using Additive Manufacturing and Surface Engineering,2025,,27,2,True,0
 PMC12446654,The effects of recycling pharmaceutical formulations in laser powder bed fusion 3D printing - the influence of physical phenomena on printing performance,2025,,61,4,True,4
 PMC12473619,Density-Based Topology-Optimized 3D-Printed Fixtures for Cyclic Mechanical Testing of Lattice Structures,2025,,28,2,True,0
+PMC12479594,Application of strain tomography and contour method to residual stress analysis in additively manufactured CM247LC superalloy parts,2025,,33,0,True,0
 PMC12494429,Optimizing the Surface Quality of L-PBF Ti6Al4V ELI Alloy via Electropolishing and Its Effect on Corrosion Resistance for Dental Applications,2025,,21,4,True,4
 PMC12526225,Study on the Corrosion Behavior of Additively Manufactured NiCoCrFeyMox High-Entropy Alloys in Chloride Environments,2025,,34,4,True,5
 PMC12526433,"Coefficient of Thermal Expansion of AlSi10Mg, 316L Stainless Steel and Ti6Al4V Alloys Made with Laser Powder Bed Fusion",2025,,48,3,True,152
@@ -238,7 +245,10 @@ PMC13027919,Microstructural Evolution and Mechanical Properties of LPBF Ti-6Al-4
 PMC13028084,Studies of the Thermophysical Properties of 42CrMo4 Steel Manufactured Conventionally and via Laser Powder Bed Fusion (L-PBF) †,2026,,40,8,True,4
 PMC13028187,Cytocompatibility Assessment of L-PBF-Manufactured Zinc–Silver–Copper Alloys for Customized Biodegradable Medical Implants,2026,,84,3,True,1
 PMC13028541,Influence of Substrate Manufacturing Route on HiPIMS TiAlSiN-Coated AISI 316L Stainless Steel Produced by Laser Powder Bed Fusion,2026,,72,4,True,5
+PMC13042806,Design of a Cobalt‐Free Maraging Steel with Ultra‐High Strength of 2.3 GPa Through Additive Manufacturing,2026,,32,0,True,3
+PMC13045232,Addressing Oxygen Embrittlement in Additively Manufactured Titanium via Cu‐Mediated Interstitial Site Engineering,2026,,37,0,True,4
 PMC13060452,Characterization of laser powder bed fusion metal samples using Bragg edge neutron transmission analysis,2026,,47,7,True,4
+PMC13073313,Multi‐Scale Structural Effects of External Electrical Fields of Melt Tracks in Laser Powder Bed Fusion,2026,,32,0,True,4
 PMC13073392,Improvement of the Surface Layer Properties of 316L Stainless Steel Produced by DMLS Through the Use of a Shot Peening Process,2026,,49,8,True,11
 PMC13073609,"Unveiling the Effects of Processing Parameters on Microstructure, Mechanical Properties, and Corrosion Resistance of High-Nb TiAl Alloy Fabricated by Laser Powder Bed Fusion",2026,,38,4,True,17
 PMC13073740,A Lattice Boltzmann Thermal Model for Predicting Melt Pool Geometry in Selective Laser Melting of AlSi10Mg and 316L Stainless Steel,2026,,95,5,True,43
@@ -246,16 +256,19 @@ PMC13113306,"Corrosion Behavior and Ion Release of Co–Cr Dental Alloys Fabrica
 PMC13117176,Using Citric-Acid-Based Anodization to Form Magnesium-Doped Carbonated Apatite-Containing Oxides on Solid and 3D-Printed Titanium Substrates,2026,,31,1,True,4
 PMC13117306,Microstructural Stability of 316 L Produced by Additive Manufacturing for Nuclear Applications,2026,,49,4,True,8
 PMC13117853,Microstructure Evolution and Solute Segregation of Inconel 718 in Laser Additive Manufacturing: A Numerical and Experimental Investigation,2026,,44,1,True,75
+PMC13117954,Fabrication of Superhydrophobic Micro–Nanostructures on Pristine SLM-Ti Surfaces,2026,,26,0,True,4
 PMC13118159,The Effect of Shot Peening on Corrosion Resistance of 18Ni300 Maraging Steel Manufactured by LPBF,2026,,39,3,True,3
 PMC13118164,Influence of Immediate Versus Delayed Loading on Peri-Implant Bone Healing: A Comparative FEA Study of Titanium Threaded and Scaffold Dental Implants,2026,,48,2,True,0
 PMC13118256,Optimization of Parameters of Block-Shaped Support Tooth Structure Using Orthogonal Experimental Design in Laser Powder Bed Fusion,2026,,61,11,True,8
 PMC13119149,Hybrid Multimodal Surrogate Modeling and Uncertainty-Aware Co-Design for L-PBF Ti-6Al-4V with Nanomaterials-Informed Morphology Proxies,2026,,145,4,True,21
 PMC13154604,Multi-Stage micro-CT–based dimensional accuracy assessment of a voronoi-based patient-specific cranial implant fabricated by electron beam melting,2026,,68,2,True,2
+PMC13159119,A Bottom‐Up Design Framework for Multifunctional Lattice Metamaterials,2026,,32,0,True,0
 PMC13164194,Polymer–Metal Hybrid Composites: An Overview of the Role of Metal Architecture,2026,,120,9,True,2
 PMC13164529,"Effects of Scan Speed on Crack Elimination, Microstructural Evolution, and Mechanical Properties of IN738LC Alloy Processed by Laser Powder Bed Fusion",2026,,44,4,True,60
 PMC13164723,Powder Spreading Dynamics and Process Optimization at a Heterogeneous Interface for Z-Direction Multi-Material Laser Powder Bed Fusion,2026,,38,1,True,23
 PMC13165250,Mechanisms of Microstructural and Defect Evolution in Laser Powder Bed Fusion-Fabricated In625 Induced by Heat Treatment,2026,,39,3,True,18
 PMC13165373,Microstructure and Properties of Crack-Free Ti-Modified 6063 Aluminum Alloy TPMS Porous Structures Fabricated by LPBF,2026,,52,4,True,5
+PMC13205735,Sub‐Unit‐Cell Logic Governs Transport in TPMS Architectures,2026,,55,0,True,4
 PMC13208258,"A Study on the Process, Microstructure, and Properties of Laser Additive Manufacturing of Titanium Alloys",2026,,32,3,True,13
 PMC13208675,Size-Dependent Mechanical Properties of Additively Manufactured Ti-6Al-4V Thin Walls,2026,,66,5,True,5
 PMC13208994,Bulk Versus Surface Regulation of Cyclic Superelasticity in LPBF-Fabricated NiTi Alloy,2026,,52,2,True,24
@@ -263,6 +276,7 @@ PMC13209054,Electrospark Deposition and Ultrasonic Peening Treatment on AlSi10Mg
 PMC13216169,Hemocompatibility and cytotoxicity evaluation of additively manufactured and surface-treated 316 L stainless steel aortic stents using laser powder bed fusion (L-PBF),2026,,71,5,True,18
 PMC13223065,Operation-specific and time-resolved monitoring of occupational nano/sub-micron particle exposure in a Swedish metal additive manufacturing facility,2026,,49,4,True,0
 PMC13230510,Evaluation of surface roughness of titanium implants on human fibroblast cells,2026,,29,1,True,4
+PMC13233914,Bubble explosion induced melt pool instabilities in electron beam melting of aluminum alloy,2026,,39,0,True,3
 PMC13250115,In-plane hybrid design and mechanical properties of Ti-6Al-4 V TPMS structures,2026,,71,4,True,0
 PMC13257545,Wall-Thickness-Dependent Microstructural Evolution and Mechanical Response of LPBF-Fabricated TA15 Titanium Alloy: The Role of Post-Solidification Cyclic Reheating,2026,,64,5,True,8
 PMC13257682,Effects of Heat Treatment Procedures and Diamond Burnishing on Tensile Properties and Surface Integrity of Additively Manufactured 17-4PH Steel Cylindrical Parts,2026,,69,8,True,26
@@ -272,6 +286,7 @@ PMC13258355,Ultrasonic Evaluation of the Adhesion Between Regenerative Coatings 
 PMC13258504,Insights into Engineering Super-Duplex Stainless-Steel Microstructures: Composition Alterations and Processing Strategies in LPBF,2026,,54,8,True,64
 PMC13258526,Effect of Heat Treatment on the Corrosion and Wear Behavior of Hastelloy C276 Alloy Fabricated via Laser Powder Bed Fusion,2026,,51,11,True,10
 PMC13258723,Effects of Post-Process on the Microstructure and Mechanical Performance of an LPBF-Fabricated Fe-Based Alloy,2026,,51,2,True,8
+PMC13269141,Digital and scalable laser-based fabrication of reusable bismuth telluride thermoelectrics with superior performance and mechanical flexibility,2026,,43,0,True,3
 PMC13301922,Machine Learning-Enabled Layer-Wise Melting Quality Recognition for Laser Powder Bed Fusion Process via In Situ Monitoring,2026,,77,3,True,15
 PMC13302085,Theoretical Analysis of the Process Window for Laser Powder-Bed Fusion for Infrared and Green Lasers Using Rosenthal Approximation,2026,,95,5,True,123
 PMC13302671,Research on Density Prediction of Laser Powder Bed Fusion Process Parameters for IN718 Nickel-Based Superalloy Based on Machine Learning,2026,,90,9,True,44
@@ -279,6 +294,7 @@ PMC13306452,Effect of Build Orientation and Part Location on Surface Roughness o
 PMC13335811,Mixing‐Driven Defects and Composition Evolution in Multi‐Material Metal Additive Manufacturing,2026,,91,1,True,7
 PMC13336658,Large Language Model‐Informed Dual‐Track AI Framework for the Synergistic Design of Crack‐Free and High‐Strength Superalloys,2026,,27,1,True,13
 PMC13336971,3D‐Printed Magnetoelectronics for Interactive Appliances and Self‐Aware 4D‐Printed Mechatronics,2026,,46,0,True,12
+PMC13337119,Laser Preset of MnOx Layer on High‐Entropy Alloy Surface for Ampere‐Level Ultra‐Stable OER Performance,2026,,32,0,True,4
 PMC13363600,Current Developments in the Use of FDM 3D-Printed Materials for Efficient Heat Transfer Applications,2026,,35,2,True,1
 PMC13389475,Comprehensive study of the influence of reinforcements on the deformation mechanism and energy absorption performance of auxetic structure,2026,,58,4,True,6
 PMC13413037,Laser Powder Bed Fusion Processing of Ti-6Al-4V Powders with Offsize and Wide Particle Size Distributions—Process Optimization,2026,,93,8,True,44
@@ -291,11 +307,14 @@ PMC13468040,A Comparative Study on Microstructure and Mechanical Properties of T
 PMC13471069,Field-ridge structured bioactive Zn-based scaffold promotes bone regeneration via cellular mechanotransduction,2027,,64,0,True,9
 PMC13496155,Revealing the Underlying Mechanisms in Performance Enhancement of Shellular Lattice Electrodes During Anion Exchange Membrane Water Electrolysis Process,2026,,28,2,True,9
 PMC13510236,Digital Design of Kurtosis-Controlled Ti-6Al-4V Lattices for Patient-Specific Orthopedic Implants: A Computational Framework,2026,,101,7,True,0
+PMC13514143,Effect of Cu Particle Cross-Contamination in AlSi10Mg Powder Feedstock: Tensile and Strain-Hardening Behaviour of Multi-Material Laser Powder Bed Fusion Parts,2026,,39,0,True,3
 PMC13514633,Distortion in LPBF Cantilevers Governed by Stiffness-Controlled Stress Redistribution,2026,,58,6,True,6
 PMC13514662,Root-Inspired Bio-Interlocking Structure Design and Its Mechanism on Enhancing the Interfacial Bonding of NiTi/Ti6Al4V Fabricated by MM-LPBF,2026,,47,4,True,11
 PMC13514712,Multi-Modal Physics-Informed Neural Network for Single-Track Geometry Prediction in Powder-Bed Arc Additive Manufacturing of 316L Stainless Steel,2026,,184,10,True,14
 PMC13514805,Investigation on the Microstructure and Compressive Properties of W-15Mo Alloy Fabricated via Laser Powder Bed Fusion,2026,,44,4,True,34
 PMC13527082,Digital twin–driven multiscale modelling for real-time defect prediction in metal additive manufacturing,2026,,140,14,True,7
+PMC13548926,Geometry‐Encoded Programmable Mechanics in Single‐Material Dual‐Phase Metamaterials,2026,,43,0,True,1
+PMC13566168,Cast Porosity Prediction by Means of Thercast Finite Element Analysis,2026,,70,0,True,3
 PMC13566274,Research on Quality Inspection of PBF-LB 022Cr17Ni12Mo2 Steel Using Laser Ultrasonic Testing Technology,2026,,57,6,True,4
 PMC13566336,Mechanical Properties and Corrosion Behavior of Biodegradable Metals: Current Challenges,2026,,94,9,True,8
 PMC13566667,"Influence of Helium and Nitrogen as Quenching Atmospheres on the Amorphous Formation, Optimum Annealing Window, Soft Magnetic Properties, and Core Losses of Fe80B13Si7 Melt-Spun Ribbons",2026,,35,2,True,0
@@ -304,6 +323,7 @@ PMC13567026,Fabrication and Wear Performance of Al Matrix Composites Reinforced 
 PMC13567098,Biomimetic Design and Mechanical Properties of Additively Manufactured Titanium Alloy Implant with Gradient Gyroid Structure,2026,,48,2,True,11
 PMC13567148,Physics-Guided Decision-Support Framework for Melt Pool Prediction and Process Stability in Laser Powder Bed Fusion of Nitinol,2026,,93,5,True,64
 PMC13567176,"Microstructural Characterization, Porosity Anisotropy, and Residual Stress Fields in ADAM-Fabricated 17-4PH Stainless Steel",2026,,74,4,True,3
+PMC13569835,Stacking faults from a different angle – Overcoming the edge-on limit in high-resolution defect analysis,2026,,85,0,True,1
 PMC13571156,From heat-treatment maps to repairable tooling of LPBF-produced M789 maraging stainless steel,2026,,110,7,True,7
 PMC13590628,In-situ architecturing of 3D graphene networks in metals via laser additive manufacturing for strength-toughness synergy,2026,,29,0,True,7
 PMC13591421,High-performance graphene/aluminum composites: progress and challenges from an industrial perspective,2026,,41,7,True,1
@@ -312,8 +332,10 @@ PMC13608174,Volumetric Infiltration of Brushite and Monetite Cements into Laser 
 PMC13608489,Thermal-History-Mediated Defect–Microstructure–Property Evolution in Multi-Laser Powder Bed Fusion of TC11 Titanium Alloy Structures,2026,,67,8,True,84
 PMC13608623,Influence of Ti-6Al-4V Scaffold Architecture on Early Cellular Responses Relevant to Bone Regeneration,2026,,53,3,True,2
 PMC13608832,Development Status of Fe-V-Based High-Entropy Alloys for Nuclear Reactors,2026,,134,5,True,0
+PMC13609239,In Situ Fabrication of Complex Hollow Nickel Microstructures via Filament-Guided Electrolyte–Column Electrodeposition,2026,,32,0,True,0
 PMC13609608,Research Progress on the Structure and Properties of Medical Bone Implants Based on Additive Manufacturing,2026,,68,5,True,5
 PMC13609852,Laser Ultrasonic Detection and Signal Enhancement of Internal Microdefects in LPBF Ti6Al4V with Anisotropic Microstructure: Simulations and Experiments,2026,,48,4,True,3
+PMC13630886,Residual Stress Relaxation After Aging Heat Treatment in Laser Powder Bed Fusion CM247LC Superalloy Parts Quantified by Neutron-Diffraction-Validated Full-Field Eigenstrain Tomography,2026,,30,0,True,4
 PMC13631040,The correlation between yttria content and thermal–mechanical properties of GRX-810,2026,,61,5,True,0
 PMC9267859,Hardness Prediction of Laser Powder Bed Fusion Product Based on Melt Pool Radiation Intensity,2022,,33,5,True,19
 PMC9571528,Function Integration in Additive Manufacturing: Design and Realization of an LPBF Built Compressed Air Motor,2022,,30,1,True,4
